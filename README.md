@@ -104,7 +104,7 @@ The Tableau dashboard provides healthcare analytics including:
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/homepage.png)
 
 ### Prediction Page
 
@@ -114,9 +114,9 @@ The Tableau dashboard provides healthcare analytics including:
 
 ![Dashboard](screenshots/dashboard.png)
 
-### Tableau Dashboard
+### Patient Search
 
-![Tableau](screenshots/tableau.png)
+![Patient](screenshots/patient_search.png)
 
 
 ## Installation
