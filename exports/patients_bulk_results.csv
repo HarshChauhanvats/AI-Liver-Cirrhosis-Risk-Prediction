@@ -1,0 +1,5 @@
+Age,Sex_M,Bilirubin,Cholesterol,Albumin,Copper,Alk_Phos,SGOT,Tryglicerides,Platelets,Prothrombin,Ascites_Y,Hepatomegaly_Y,Spiders_Y,Edema_S,Edema_Y,Prediction,Confidence
+42,1,1.1,205,3.9,38,170,40,135,275,12.3,0,0,0,0,0,Low Risk of Liver Cirrhosis,36.5
+36,0,0.9,190,4.1,30,150,35,120,290,11.9,0,0,0,0,0,Low Risk of Liver Cirrhosis,36.0
+59,1,11.8,390,1.8,118,340,150,230,135,15.4,1,1,1,1,1,High Risk of Liver Cirrhosis,86.0
+63,0,14.2,420,1.5,140,390,175,260,110,16.1,1,1,1,1,1,High Risk of Liver Cirrhosis,87.5

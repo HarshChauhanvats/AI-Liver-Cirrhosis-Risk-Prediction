@@ -1,0 +1,4 @@
+id,age,bilirubin,cholesterol,albumin,copper,alk_phos,sgot,tryglicerides,platelets,prothrombin,sex_m,ascites_y,hepatomegaly_y,spiders_y,edema_s,edema_y,prediction,confidence,created_at
+1,45.0,1.2,210.0,3.8,45.0,180.0,42.0,140.0,250.0,12.5,1,0,0,0,0,0,Low Risk of Liver Cirrhosis,43.5,05-06-2026 09:41
+2,42.5,5.8,562.0,3.4,145.0,180.0,135.0,210.0,245.0,12.9,0,1,0,1,0,0,High Risk of Liver Cirrhosis,81.5,05-06-2026 10:59
+3,42.0,1.2,255.0,3.4,45.0,170.0,112.0,135.0,245.0,12.5,0,1,1,1,0,0,High Risk of Liver Cirrhosis,61.5,05-07-2026 14:25
